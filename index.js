@@ -15,4 +15,4 @@ const ladder = {
 };
 
 ladder.up().up().down().showStep(); // 1
- тест
+тест
